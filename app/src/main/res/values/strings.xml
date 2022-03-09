@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="nombreyapellido">Nombre</string>
+    <string name="direccion">Direccion</string>
+    <string name="correo">Correo</string>
+    <string name="telefono">Telefono</string>
+    <string name="btnalmacenar">Almacenar</string>
+    <string name="btnbuscar">Buscar</string>
+</resources>
